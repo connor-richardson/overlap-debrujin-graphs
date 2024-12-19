@@ -7,7 +7,6 @@ python3
 Graphviz
 
 3. ### Usage
-4. 
 5. #### Overlap Graph
 6. python3 overlap.py overlap.fa
 
