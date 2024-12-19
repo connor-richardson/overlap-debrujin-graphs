@@ -2,7 +2,7 @@
 1. **Overlap Graphs**: Generate an overlap graph from FASTA/FASTQ reads, where edges represent prefix-suffix matches of length ≥ 10. 
 2. **De Bruijn Graphs**: Construct a De Bruijn graph using 10-mers from a sequence.
 
-###Prereqs
+### Prereqs
 python3
 Graphviz
 
