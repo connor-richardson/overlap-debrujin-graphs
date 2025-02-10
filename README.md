@@ -3,7 +3,7 @@
 2. **De Bruijn Graphs**: Construct a De Bruijn graph using 10-mers from a sequence.
 
 ## Prereqs
-python3
+python3 <br>
 Graphviz
 
 ## Usage
